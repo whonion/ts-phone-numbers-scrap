@@ -10,9 +10,10 @@
         "https-proxy-agent": "^7.0.2"
     },
     "scripts": {
-        "start": "node index.js"
+        "start": "node main.js",
+        "sort": "node sort.js"
     },
-    "author": "Your Name",
+    "author": "whonion",
     "license": "ISC",
     "devDependencies": {
         "@types/node": "^20.5.9"
