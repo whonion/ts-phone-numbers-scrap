@@ -1,0 +1,10 @@
+# Compilled js
+*.js
+!_*.js
+# Private files
+blacklist_sorted.txt
+blacklist.txt
+proxy.txt
+# Dependency directories
+node_modules/
+index.ts

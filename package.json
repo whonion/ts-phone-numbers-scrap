@@ -1,0 +1,20 @@
+{
+    "name": "phone-number-scraper",
+    "version": "1.0.0",
+    "description": "A script to scrape scammer's phone numbers from a website.",
+    "main": "main.js",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "cheerio": "",
+        "http-proxy-agent": "^7.0.0",
+        "https-proxy-agent": "^7.0.2"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.5.9"
+    }
+}
